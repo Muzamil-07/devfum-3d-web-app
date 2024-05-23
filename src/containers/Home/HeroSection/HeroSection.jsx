@@ -44,11 +44,11 @@ const HeroSection = () => {
           />
         </Canvas>
 
-        <ProjectButton
+        {/* <ProjectButton
           sx={{ position: 'relative', top: '40%', zIndex: '10000' }}
         >
           Projects
-        </ProjectButton>
+        </ProjectButton> */}
       </Stack>
     </MainContainer>
   )
